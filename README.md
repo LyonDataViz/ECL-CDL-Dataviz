@@ -1,6 +1,6 @@
 # Interactive Data Visualization (Centrale Lyon Digital Lab)
 
-[Romain Vuillemot](http://www.ec-lyon.fr/contacts/romain-vuillemot), *LIRIS, École Centrale de Lyon/Département Math-Info*, [Website](http://romain.vuillemot.net/),  [Twitter](https://twitter.com/romsson).
+[Romain Vuillemot](http://www.ec-lyon.fr/contacts/romain-vuillemot), *LIRIS, École Centrale de Lyon/Département Math-Info*, [http://romain.vuillemot.net/](http://romain.vuillemot.net/),  [@romsson](https://twitter.com/romsson).
 
 Contact or questions: romain.vuillemot@ec-lyon.fr
 
@@ -25,24 +25,24 @@ Other books
 
 ## Grading
 
-* 100% Final exam - Build an interactive Scatterplot
+* Mini-project
 
 ---
 ## Submissions
 
-All homeworks/assignements/reports are due the **day before** the class at 23.59pm Lyon Time (GMT+1). Using [this form](https://goo.gl/forms/YAMADA2erDsaNpIA3).
+All homeworks/assignements/reports should be submitted using [this document](https://docs.google.com/spreadsheets/d/1cMrlpwhros2kIHDGbewENPBuvEp3YYaaUMqTSjPsTos/edit#gid=0).
 
 ---
 
 ## **Lecture 1 - Introduction to Data Visualization** 
-*Monday morning*
+*Monday 9 sept. 2019 morning*
 
 * Overview: Class organization ([slides](https://docs.google.com/presentation/d/1YaPshJZLDj6M0XBMtmHqANeH17JINdB3Ie5G8RdC74U/edit#slide=id.p))
 * Basics of Data Visualization: Perception, cognition, Visual mapping, Standard charts ([slides](https://docs.google.com/presentation/d/1YY8h1wjfaAv172LVa8kVAnxCyEB547HRL43JlEOvCH0/edit#slide=id.p))
 * Authoring visualizations: Libraries, Tools, Tableau Software ([slides](https://docs.google.com/presentation/d/18b-B9wAYpq93nbROxRe9u6-7xexuBLM7T-yapqGoYdo/edit#slide=id.g2f7ee94efd_0_45))
 
 ## **Exercice 1 - Tableau Software**
-*Monday morning*
+*Monday 9 sept. 2019 morning*
 
 *Tableau Tutorial* 
 
@@ -97,20 +97,19 @@ All homeworks/assignements/reports are due the **day before** the class at 23.59
 * Solution for Super Store example ([example](https://data.world/tableauhelp/superstore-data-sets))
 
 ## **Lecture 2 - Introduction to D3.js** 
-*Monday monrning*
+*Monday 9 sept. 2019 morning*
 
 * Standard chart + Time/Geo charts ([slides](https://docs.google.com/presentation/d/1YY8h1wjfaAv172LVa8kVAnxCyEB547HRL43JlEOvCH0/edit#slide=id.g2ed13e6d0c_0_5))
 * Advanced data visualization concepts: Animation, Interaction, Multiple Views ([slides](https://docs.google.com/presentation/d/1g2ZT3LHUnCSmEUIrxow_4APTlnuiMGgID8XxMyt8mz4/edit#slide=id.p))
 * D3.js: Principles, Codes, Web Development ([slides](https://docs.google.com/presentation/d/1BtnZZoSmrafigZLbsFqPGwBlhPZHee19SJpUtcHKuCU/edit#slide=id.p))
  
 ## **Exercice 2: D3.js** 
-*Monday afternoon*
+*Monday 9 sept. 2019 afternoon*
 
 * [Cheatsheet for D3](https://romsson.github.io/intro-to-d3/)
 * Let's build a [bar chart using SVG only](http://blockbuilder.org/romsson/36b1cdc599e8f341a33892f143cf087f) (without D3)
 * Let's build a [bar chart with D3 *without* data binding](http://blockbuilder.org/romsson/f865e7c5c05c805759486a3cf435a548)
 * Let's build a [bar chart with D3 *using* data binding](http://blockbuilder.org/romsson/e7aeedeb03300f4cdfd54531e33e9b68)
-* Let's build an interactive bar chart
 * Let's build an interactive bar chart using a dataset
 * Let's build an [interactive line chart using a dataset](http://bl.ocks.org/romsson/4fab85668c5cbed4fe0c070fa56d7a77)
 * [Result from class](https://blockbuilder.org/romsson/1a0c14ecfd3f4a8eae6b7dc0140a5ada)
@@ -127,7 +126,7 @@ All homeworks/assignements/reports are due the **day before** the class at 23.59
 
 
 ## **Lecture 3 - Advanced D3.js and Design Methods**
-*Tuesday morning*
+*Tuesday 10 september 2019 morning*
 
 * [Solution stock line chart](https://blockbuilder.org/romsson/7d94b8925f4c8cb832770921aee23f88) (another one using [d3.nest](https://blockbuilder.org/romsson/57eb273e01761b829aaa95b28c8193c1))
 
@@ -138,19 +137,30 @@ Class example: [multiple scatterplot](https://blockbuilder.org/romsson/7eb8dba33
 ## Exercice 3: Design Methods & more D3.js 
 *Tuesday 10 sept. Morning*
 
-* Sketching, Rapid Prototyping, Development cycles ([slides](https://docs.google.com/presentation/d/11kEkZK12C893qzyEDvkIjgFKPmRKFf-KDDOKiwGw6ys/edit#slide=id.p)) and using the [Five Design Sheet](http://fds.design/) methodology
+* Sketching, Rapid Prototyping, Development cycles ([slides](https://docs.google.com/presentation/d/11kEkZK12C893qzyEDvkIjgFKPmRKFf-KDDOKiwGw6ys/edit#slide=id.p)) 
+
+* Advanced layouts ([slides](https://docs.google.com/presentation/d/1a79MLat-ftU25Uk7uM2JYfDSlKS-9hp94EnmegvcLg0/edit#slide=id.p))
+
+* Case studies ([slides](https://docs.google.com/presentation/d/1RxFTHrEDvGTJiHZ7AmOyX7WQ82o7FEJFs0kosvlD4bg/edit#slide=id.g4e96ed2393_0_54))
+
+* The [Five Design Sheet](http://fds.design/) methodology
 
 * Read principles of the Five design sheets [methodology](http://fds.design/wp-content/uploads/2015/06/five-design-sheet-approach-JCR.pdf)
 
 * [Apply it](http://fds.design/index.php/resources-and-publications/) to your project (paper and pen!)
+
+
 
 At the end of the tutorial: 
 
 * Update your proposal after feedback from instructor
 * Add the link to (a pdf of all) the design sheets in the class document
 
+## Mini-Projet : Your own visualization 
+*Tuesday 17 september 2019 afternoon*
 
-📅 **For next class (02/02)**
+
+Extra D3.js
 
 1. [Grouped bar chart](https://blockbuilder.org/romsson/a78f70f6624184fd33b4dc385a495e75) chart using the [`stocks.csv`](data/stocks.csv) dataset and [`d3.nest`](http://learnjsdata.com/group_data.html)
 
@@ -164,40 +174,23 @@ At the end of the tutorial:
 * Reading: [Chapter 8. Axes](https://web.archive.org/web/20160307043159/http://chimera.labs.oreilly.com/books/1230000000345/ch08.html), [Chapter 9. Updates, Transitions, and Motion
 ](https://web.archive.org/web/20160307043159/http://chimera.labs.oreilly.com/books/1230000000345/ch09.html), [Chapter 10. Interactivity](https://web.archive.org/web/20160307043159/http://chimera.labs.oreilly.com/books/1230000000345/ch10.html), [Chapter 11. Layouts](https://web.archive.org/web/20160307043159/http://chimera.labs.oreilly.com/books/1230000000345/ch11.html).
 
-## Lecture 4 - Advanced Layout, Data Cleaning and Case studies
-*Friday 01/02/2019 13:30-15:30*
 
 * Solution [stock grouped bar chart](https://blockbuilder.org/romsson/64adf11897d67c21f4a0e0e16616df39) and [stacked bar chart](https://blockbuilder.org/romsson/8aea86fddcf01380eb96a341509f394f)) see [slides](https://docs.google.com/presentation/d/14pYKK2dYGnPS6iZ9l1gw1vuiPOGXjjCfeJlArMYRLBs/edit#slide=id.g327e636b06_0_422)
-
-* Advanced layouts ([slides](https://docs.google.com/presentation/d/1a79MLat-ftU25Uk7uM2JYfDSlKS-9hp94EnmegvcLg0/edit#slide=id.p))
-
-* Case studies ([slides](https://docs.google.com/presentation/d/1RxFTHrEDvGTJiHZ7AmOyX7WQ82o7FEJFs0kosvlD4bg/edit#slide=id.g4e96ed2393_0_54))
-
-## Tutorial 4: Geo-maps and project setup
-*Friday 01/02/2019 15:45-17:45*
 
 * Feedback on projects
 * Introduction to [data cleaning tools and methods](http://romain.vuillemot.net/publis/slides-daquata-workshop-data-cleaning-dataviz.pdf)
 * Modern web development tools: local server, package managers ([slides](https://docs.google.com/presentation/d/1Uz3ZjX1f9DJgH73VOrJwi7cgVqwlKIwFPmM4eubUIb8/edit#slide=id.g32bdb64449_0_18))
 * Tutorial: [build a geo-map](https://lyondataviz.github.io/teaching/lyon1-m2/2017/tp4.html)
 
-📅 **For next class (08/02)**
-
-✍ Assignments
+🏆 Extra
 
 * Add slider and tooltips to the geo-map
 * Final design of projects
 * Link to online demo (e.g. Github page) with blank document or first visualization
 
-## Lecture 5 - Graphs
-*Friday 08/02/2019 13:30-15:30*
-
 * Graphs, Networks and Tree visualizations ([slides](https://docs.google.com/presentation/d/1zhbOrcbVMEfnl8tx07TPNuY8oEIeGyuYVeCR5Rb4h9g/edit#slide=id.p))
 
-* [Solution interactive geo-map](https://blockbuilder.org/romsson/bfb974bfd600573d763c405d20921b7c)
-
-## Tutorial 5: Node-Link Graphs
-*Friday 08/02/2019 15:45-17:45*
+* [Interactive geo-map](https://blockbuilder.org/romsson/bfb974bfd600573d763c405d20921b7c)
 
 * Load this [Node link diagram](https://blockbuilder.org/romsson/613e64af0ea1fb1567aeac5d29e9ac35) based on [force layout](img/force.png) (see [documentation](https://github.com/d3/d3-force) and [parameters playground](https://bl.ocks.org/steveharoz/8c3e2524079a8c440df60c1ab72b5d03)) 
 
@@ -206,53 +199,7 @@ Update it with more features:
 1. Layouts: [random](img/random.png), [radial](img/radial.png), [line]](img/line.png), [line by category](img/line-cat.png).
 2. Encodings: [color](img/color.png), [size](img/size.png).
 
-BONUS: [multiple foci](http://bl.ocks.org/Kuerzibe/d2e79e28c5591a7e4552b6f9433ebe40)
-
-[Solution](https://blockbuilder.org/romsson/737693bfe28fb0e8e4d2a4dc55ffd846)
-
-## Projects (1/2)
-*Friday 15/02/2019 13:30-15:30*
-
-**Peer-review of other groups projects** Fill [this form](https://goo.gl/forms/zjNnExy0NC9zAct53):
-
-## Projects (2/2)
-*Friday 15/02/2019 15:45-17:45*
-
-## Projects (autonomie)
-*Friday 01/03/2019 13:30-15:30*
-
-## Projects (autonomie)
-*Friday 01/03/2019 15:45-17:45*
-
-## Projects: Final projects presentations & demos
-*Friday 08/03/2019 13:30-17:45*
-
-Each group has a 15min time slot (10min presentation, 5min questions) to present their project.
-
-**No slide: just show the visualization and tell a convincing story (e.g. don't list features, etc.). Should address the following:**
-
-1. Present context, dataset, data collection
-2. Describe key design decisions (visual mappings, interactions, animations, ..)
-3. Did the visualization help you find anything of interest in the dataset?
-4. Discuss technical challenges, limits, what you would have done with more time.
-
-*There is no report to write for the project, just add a README.md in the repository organized as follows:*
-
-- Name of the participants of the project
-- Description of the project
-- Screenshots and/or video of the main features
-- Credits to external code or data you may have used in your project
-
-**IMPORTANT -- Regarding the dataset**
-
-- If you don't want to share your dataset, add a demo/fake dataset (e.g. sample or fake data) for the live demo
-- Provide a way to let users use their own dataset and explain how to do it (upload button? using a Python script? etc.)
-- If you take screenshots with the real dataset make sure you preserve individuals privacy
-
-As a general rule keep in mind the projects will be made public so anybody should be able to understand on their own and privacy of the datasets should be preserved.
-
-## Exam
-*Wednesday 13/03/2019 16:30-18:30*
+BONUS: [multiple foci](http://bl.ocks.org/Kuerzibe/d2e79e28c5591a7e4552b6f9433ebe40) and [solution](https://blockbuilder.org/romsson/737693bfe28fb0e8e4d2a4dc55ffd846)
 
 ## Online resources
 
