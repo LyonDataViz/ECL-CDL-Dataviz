@@ -23,6 +23,8 @@ Other books
 * [Design for Information](http://isabelmeirelles.com/book-design-for-information/) by Isabel Meirelles
 * [Making Data Visual: A Practical Guide to Using Visualization for Insight](http://shop.oreilly.com/product/0636920041320.do) by Danyel Fisher & Miriah Meyer
 
+*More details/resources check out [MOS 5.5 Interactive Data Visualization](https://github.com/LyonDataViz/MOS5.5-Dataviz)*
+
 ## Grading
 
 * Mini-project
@@ -40,6 +42,7 @@ All homeworks/assignements/reports should be submitted using [this document](htt
 * Overview: Class organization ([slides](https://docs.google.com/presentation/d/1YaPshJZLDj6M0XBMtmHqANeH17JINdB3Ie5G8RdC74U/edit#slide=id.p))
 * Basics of Data Visualization: Perception, cognition, Visual mapping, Standard charts ([slides](https://docs.google.com/presentation/d/1YY8h1wjfaAv172LVa8kVAnxCyEB547HRL43JlEOvCH0/edit#slide=id.p))
 * Authoring visualizations: Libraries, Tools, Tableau Software ([slides](https://docs.google.com/presentation/d/18b-B9wAYpq93nbROxRe9u6-7xexuBLM7T-yapqGoYdo/edit#slide=id.g2f7ee94efd_0_45))
+* Standard chart + Time/Geo charts ([slides](https://docs.google.com/presentation/d/1YY8h1wjfaAv172LVa8kVAnxCyEB547HRL43JlEOvCH0/edit#slide=id.g2ed13e6d0c_0_5))
 
 ## **Exercice 1 - Tableau Software**
 *Monday 9 sept. 2019 morning*
@@ -82,7 +85,6 @@ All homeworks/assignements/reports should be submitted using [this document](htt
 4. BONUS: Add storytelling (Tableau Feature)
 5. BONUS: Join other datasets (e.g. People, ..)
 
-
 📖 Readings
 
 * Interactive Data Visualization for the Web [Chapter 1. Introduction
@@ -96,10 +98,9 @@ All homeworks/assignements/reports should be submitted using [this document](htt
 
 * Solution for Super Store example ([example](https://data.world/tableauhelp/superstore-data-sets))
 
-## **Lecture 2 - Introduction to D3.js** 
-*Monday 9 sept. 2019 morning*
+## **Lecture 2 - Standard Charts and Introduction to D3.js** 
+*Monday 9 sept. 2019 morning/afternoon*
 
-* Standard chart + Time/Geo charts ([slides](https://docs.google.com/presentation/d/1YY8h1wjfaAv172LVa8kVAnxCyEB547HRL43JlEOvCH0/edit#slide=id.g2ed13e6d0c_0_5))
 * Advanced data visualization concepts: Animation, Interaction, Multiple Views ([slides](https://docs.google.com/presentation/d/1g2ZT3LHUnCSmEUIrxow_4APTlnuiMGgID8XxMyt8mz4/edit#slide=id.p))
 * D3.js: Principles, Codes, Web Development ([slides](https://docs.google.com/presentation/d/1BtnZZoSmrafigZLbsFqPGwBlhPZHee19SJpUtcHKuCU/edit#slide=id.p))
  
@@ -124,6 +125,12 @@ All homeworks/assignements/reports should be submitted using [this document](htt
 
 * What is visualization [research](https://medium.com/multiple-views-visualization-research-explained/what-is-visualization-research-what-should-it-be-8840a9ba658)? [literacy](https://medium.com/multiple-views-visualization-research-explained/what-does-visualization-literacy-mean-anyway-22f3b3badc0)?
 
+📅 For next class (10/09): pick a dataset
+
+* Pick an interesting problem (e.g. what is the student progression in class over time? how climate changes over years? which soccer teams performs the best in Ligue 1?)
+* Find the corresponding dataset (or build it yourself) but should remain fairly small (~50 rows and 3 to 4 columns) with at least a few quantitative values
+* Find related questions to this problem that can be answered by visualizing your dataset
+* Add it to [this document](https://docs.google.com/spreadsheets/d/1cMrlpwhros2kIHDGbewENPBuvEp3YYaaUMqTSjPsTos/edit#gid=0)
 
 ## **Lecture 3 - Advanced D3.js and Design Methods**
 *Tuesday 10 september 2019 morning*
@@ -132,10 +139,9 @@ All homeworks/assignements/reports should be submitted using [this document](htt
 
 * Advanced D3.js: page layout, d3.nests, legends, scatterplot and grouped bar chart ([slides](https://docs.google.com/presentation/d/14pYKK2dYGnPS6iZ9l1gw1vuiPOGXjjCfeJlArMYRLBs/edit#slide=id.p))
 
-Class example: [multiple scatterplot](https://blockbuilder.org/romsson/7eb8dba335c702707bd2311bd75a28a7)
+* Discussion on datasets and questions
 
-## Exercice 3: Design Methods & more D3.js 
-*Tuesday 10 sept. Morning*
+Class example: [multiple scatterplot](https://blockbuilder.org/romsson/7eb8dba335c702707bd2311bd75a28a7)
 
 * Sketching, Rapid Prototyping, Development cycles ([slides](https://docs.google.com/presentation/d/11kEkZK12C893qzyEDvkIjgFKPmRKFf-KDDOKiwGw6ys/edit#slide=id.p)) 
 
@@ -147,18 +153,20 @@ Class example: [multiple scatterplot](https://blockbuilder.org/romsson/7eb8dba33
 
 * Read principles of the Five design sheets [methodology](http://fds.design/wp-content/uploads/2015/06/five-design-sheet-approach-JCR.pdf)
 
-* [Apply it](http://fds.design/index.php/resources-and-publications/) to your project (paper and pen!)
+* [Apply it](http://fds.design/index.php/resources-and-publications/) to your project (paper and pen!) by sketching the organization of the page and the visualizations.
+
+NOTE: you may need to perform a data analysis process of your project dataset (or expected dataset) using D3 or Tableau: load data from an external file (CSV, JSON), create a first chart characterising the **distribution** of the dataset (e.g. time series, bar chart, ), scatterplot. Add the link to your analysis in the class document.
 
 
 
-At the end of the tutorial: 
-
-* Update your proposal after feedback from instructor
-* Add the link to (a pdf of all) the design sheets in the class document
 
 ## Mini-Projet : Your own visualization 
 *Tuesday 17 september 2019 afternoon*
 
+
+* Complete building your visualization project
+* Feedback and presentation
+* 🎉
 
 Extra D3.js
 
@@ -167,9 +175,7 @@ Extra D3.js
 * BONUS: [Stacked bar chart](https://blockbuilder.org/romsson/8aea86fddcf01380eb96a341509f394f)
 * BONUS: Transition between stacked and grouped (see [D3 show reel](https://bl.ocks.org/mbostock/1256572))
 
-2. Data analysis of your project dataset (or expected dataset) using D3 or Tablea: load data from an external file (CSV, JSON), create a first chart characterising the **distribution** of the dataset (e.g. time series, bar chart, ), scatterplot. Add the link to your analysis in the class document.
 
-3. Update your design sheets and update link in the class document.
 
 * Reading: [Chapter 8. Axes](https://web.archive.org/web/20160307043159/http://chimera.labs.oreilly.com/books/1230000000345/ch08.html), [Chapter 9. Updates, Transitions, and Motion
 ](https://web.archive.org/web/20160307043159/http://chimera.labs.oreilly.com/books/1230000000345/ch09.html), [Chapter 10. Interactivity](https://web.archive.org/web/20160307043159/http://chimera.labs.oreilly.com/books/1230000000345/ch10.html), [Chapter 11. Layouts](https://web.archive.org/web/20160307043159/http://chimera.labs.oreilly.com/books/1230000000345/ch11.html).
@@ -177,27 +183,17 @@ Extra D3.js
 
 * Solution [stock grouped bar chart](https://blockbuilder.org/romsson/64adf11897d67c21f4a0e0e16616df39) and [stacked bar chart](https://blockbuilder.org/romsson/8aea86fddcf01380eb96a341509f394f)) see [slides](https://docs.google.com/presentation/d/14pYKK2dYGnPS6iZ9l1gw1vuiPOGXjjCfeJlArMYRLBs/edit#slide=id.g327e636b06_0_422)
 
-* Feedback on projects
 * Introduction to [data cleaning tools and methods](http://romain.vuillemot.net/publis/slides-daquata-workshop-data-cleaning-dataviz.pdf)
 * Modern web development tools: local server, package managers ([slides](https://docs.google.com/presentation/d/1Uz3ZjX1f9DJgH73VOrJwi7cgVqwlKIwFPmM4eubUIb8/edit#slide=id.g32bdb64449_0_18))
 * Tutorial: [build a geo-map](https://lyondataviz.github.io/teaching/lyon1-m2/2017/tp4.html)
 
 🏆 Extra
 
-* Add slider and tooltips to the geo-map
-* Final design of projects
-* Link to online demo (e.g. Github page) with blank document or first visualization
-
 * Graphs, Networks and Tree visualizations ([slides](https://docs.google.com/presentation/d/1zhbOrcbVMEfnl8tx07TPNuY8oEIeGyuYVeCR5Rb4h9g/edit#slide=id.p))
 
 * [Interactive geo-map](https://blockbuilder.org/romsson/bfb974bfd600573d763c405d20921b7c)
 
-* Load this [Node link diagram](https://blockbuilder.org/romsson/613e64af0ea1fb1567aeac5d29e9ac35) based on [force layout](img/force.png) (see [documentation](https://github.com/d3/d3-force) and [parameters playground](https://bl.ocks.org/steveharoz/8c3e2524079a8c440df60c1ab72b5d03)) 
-
-Update it with more features:
-
-1. Layouts: [random](img/random.png), [radial](img/radial.png), [line]](img/line.png), [line by category](img/line-cat.png).
-2. Encodings: [color](img/color.png), [size](img/size.png).
+* [Node link diagram](https://blockbuilder.org/romsson/613e64af0ea1fb1567aeac5d29e9ac35) based on [force layout](img/force.png) (see [documentation](https://github.com/d3/d3-force) and [parameters playground](https://bl.ocks.org/steveharoz/8c3e2524079a8c440df60c1ab72b5d03)) 
 
 BONUS: [multiple foci](http://bl.ocks.org/Kuerzibe/d2e79e28c5591a7e4552b6f9433ebe40) and [solution](https://blockbuilder.org/romsson/737693bfe28fb0e8e4d2a4dc55ffd846)
 
