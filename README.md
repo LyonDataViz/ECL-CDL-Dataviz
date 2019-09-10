@@ -120,6 +120,8 @@ All homeworks/assignements/reports should be submitted using [this document](htt
 * Extend the line chart using the [`stocks.csv`](data/stocks.csv) where each line is a different symbol (and a different color)
 * BONUS: add a vertical axis
 * BONUS: rank chart and a [toggle button](https://romsson.github.io/rankings/ranking.html)
+* BONNUS: [multiple scatterplot](https://blockbuilder.org/romsson/7eb8dba335c702707bd2311bd75a28a7)
+
 
 * Reading: [Chapter 4. Setup](https://web.archive.org/web/20160307043159/http://chimera.labs.oreilly.com/books/1230000000345/ch04.html), [Chapter 5. Data](https://web.archive.org/web/20160307043159/http://chimera.labs.oreilly.com/books/1230000000345/ch05.html), [Chapter 6. Drawing with Data](https://web.archive.org/web/20160307043159/http://chimera.labs.oreilly.com/books/1230000000345/ch06.html), [Chapter 7. Scales](https://web.archive.org/web/20160307043159/http://chimera.labs.oreilly.com/books/1230000000345/ch07.html).
 
@@ -135,13 +137,13 @@ All homeworks/assignements/reports should be submitted using [this document](htt
 ## **Lecture 3 - Advanced D3.js and Design Methods**
 *Tuesday 10 september 2019 morning*
 
-* [Solution stock line chart](https://blockbuilder.org/romsson/7d94b8925f4c8cb832770921aee23f88) (another one using [d3.nest](https://blockbuilder.org/romsson/57eb273e01761b829aaa95b28c8193c1))
+* [Temporal data](https://docs.google.com/presentation/d/1YY8h1wjfaAv172LVa8kVAnxCyEB547HRL43JlEOvCH0/edit#slide=id.g26b255eefc_0_1105) and [d3.nest](https://docs.google.com/presentation/d/14pYKK2dYGnPS6iZ9l1gw1vuiPOGXjjCfeJlArMYRLBs/edit#slide=id.g327e636b06_0_480)
+* Stock market dataset [`stocks.csv`](data/stocks.csv) 
+* [Stock line chart](https://blockbuilder.org/romsson/7d94b8925f4c8cb832770921aee23f88) (another one using [d3.nest](https://blockbuilder.org/romsson/57eb273e01761b829aaa95b28c8193c1))
 
-* Advanced D3.js: page layout, d3.nests, legends, scatterplot and grouped bar chart ([slides](https://docs.google.com/presentation/d/14pYKK2dYGnPS6iZ9l1gw1vuiPOGXjjCfeJlArMYRLBs/edit#slide=id.p))
+* Advanced D3.js: gouped bar chart ([slides](https://docs.google.com/presentation/d/14pYKK2dYGnPS6iZ9l1gw1vuiPOGXjjCfeJlArMYRLBs/edit#slide=id.p))
 
-* Discussion on datasets and questions
-
-Class example: [multiple scatterplot](https://blockbuilder.org/romsson/7eb8dba335c702707bd2311bd75a28a7)
+Discussion on datasets and questions
 
 * Sketching, Rapid Prototyping, Development cycles ([slides](https://docs.google.com/presentation/d/11kEkZK12C893qzyEDvkIjgFKPmRKFf-KDDOKiwGw6ys/edit#slide=id.p)) 
 
@@ -158,8 +160,6 @@ Class example: [multiple scatterplot](https://blockbuilder.org/romsson/7eb8dba33
 NOTE: you may need to perform a data analysis process of your project dataset (or expected dataset) using D3 or Tableau: load data from an external file (CSV, JSON), create a first chart characterising the **distribution** of the dataset (e.g. time series, bar chart, ), scatterplot. Add the link to your analysis in the class document.
 
 
-
-
 ## Mini-Projet : Your own visualization 
 *Tuesday 17 september 2019 afternoon*
 
@@ -168,7 +168,7 @@ NOTE: you may need to perform a data analysis process of your project dataset (o
 * Feedback and presentation
 * 🎉
 
-Extra D3.js
+🏆 Extra
 
 1. [Grouped bar chart](https://blockbuilder.org/romsson/a78f70f6624184fd33b4dc385a495e75) chart using the [`stocks.csv`](data/stocks.csv) dataset and [`d3.nest`](http://learnjsdata.com/group_data.html)
 
@@ -186,8 +186,6 @@ Extra D3.js
 * Introduction to [data cleaning tools and methods](http://romain.vuillemot.net/publis/slides-daquata-workshop-data-cleaning-dataviz.pdf)
 * Modern web development tools: local server, package managers ([slides](https://docs.google.com/presentation/d/1Uz3ZjX1f9DJgH73VOrJwi7cgVqwlKIwFPmM4eubUIb8/edit#slide=id.g32bdb64449_0_18))
 * Tutorial: [build a geo-map](https://lyondataviz.github.io/teaching/lyon1-m2/2017/tp4.html)
-
-🏆 Extra
 
 * Graphs, Networks and Tree visualizations ([slides](https://docs.google.com/presentation/d/1zhbOrcbVMEfnl8tx07TPNuY8oEIeGyuYVeCR5Rb4h9g/edit#slide=id.p))
 
@@ -273,4 +271,3 @@ Misc
 * Design essay: [Picturing the Great Migration](https://medium.com/info-we-trust/picturing-the-great-migration-9e4b5a3eca8a)
 * [What to Expect in the Data Visualization Engineer Job Interviews
 ](https://medium.com/@kristw/what-to-expect-in-data-visualization-engineer-job-interviews-54053b896a75)
-
