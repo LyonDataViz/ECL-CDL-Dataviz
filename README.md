@@ -161,10 +161,10 @@ NOTE: you may need to perform a data analysis process of your project dataset (o
 
 
 ## Mini-Projet : Your own visualization 
-*Tuesday 17 september 2019 afternoon*
-
+*Wednesday 17 september 2019 morning*
 
 * Complete building your visualization project
+* Add it in [this document](https://docs.google.com/spreadsheets/d/1cMrlpwhros2kIHDGbewENPBuvEp3YYaaUMqTSjPsTos/edit#gid=0).
 * Feedback and presentation
 * 🎉
 
@@ -175,11 +175,8 @@ NOTE: you may need to perform a data analysis process of your project dataset (o
 * BONUS: [Stacked bar chart](https://blockbuilder.org/romsson/8aea86fddcf01380eb96a341509f394f)
 * BONUS: Transition between stacked and grouped (see [D3 show reel](https://bl.ocks.org/mbostock/1256572))
 
-
-
 * Reading: [Chapter 8. Axes](https://web.archive.org/web/20160307043159/http://chimera.labs.oreilly.com/books/1230000000345/ch08.html), [Chapter 9. Updates, Transitions, and Motion
 ](https://web.archive.org/web/20160307043159/http://chimera.labs.oreilly.com/books/1230000000345/ch09.html), [Chapter 10. Interactivity](https://web.archive.org/web/20160307043159/http://chimera.labs.oreilly.com/books/1230000000345/ch10.html), [Chapter 11. Layouts](https://web.archive.org/web/20160307043159/http://chimera.labs.oreilly.com/books/1230000000345/ch11.html).
-
 
 * Solution [stock grouped bar chart](https://blockbuilder.org/romsson/64adf11897d67c21f4a0e0e16616df39) and [stacked bar chart](https://blockbuilder.org/romsson/8aea86fddcf01380eb96a341509f394f)) see [slides](https://docs.google.com/presentation/d/14pYKK2dYGnPS6iZ9l1gw1vuiPOGXjjCfeJlArMYRLBs/edit#slide=id.g327e636b06_0_422)
 
